@@ -8,4 +8,4 @@
 
 ## 如何预览
 
-点击 https://flinandfc.github.io/blog0920/ 即可预览
+点击 https://flinandfc.github.io/resume/ 即可预览
